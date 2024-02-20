@@ -1,6 +1,4 @@
 ## Hello there, I am Levi! :)
-
-- Back-end developer at [FitBank 450](https://fitbank.com.br/)
 - Systems analysis and development student
 
 ## Main Skills
