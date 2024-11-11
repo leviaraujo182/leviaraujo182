@@ -1,5 +1,5 @@
 ## Hello there, I am Levi! :)
-- Systems analysis and development student
+- Systems analysis and development.
 
 ## Main Skills
 <p>
